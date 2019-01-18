@@ -2,7 +2,6 @@ package food
 
 import (
 	"fmt"
-        "golang.org/x/net/context"
 )
 
 func AlpoPackageName () {
